@@ -1,4 +1,4 @@
-# Sentiment-analysis-on-trump-victory
+# Sentiment-analysis-on-Donald-trump's-victory
 ## The present project is a small-scale study of public sentiment over the victory of Donald trump. For this study, comments on  youtube video of his victory speech is taken to observe, what sentiments do public have regarding his victory.
 
 ### The study conclusion::
